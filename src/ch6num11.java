@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class ch6num11 {
+	
+	public static final int FIND_ME = 10;
+	//this is my work!
 
 	public static void main(String[] args) {
 		System.out.print(">>");
